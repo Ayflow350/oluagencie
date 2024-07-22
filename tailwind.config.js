@@ -15,6 +15,7 @@ module.exports = {
         textOrange: "#DA9E8B",
         headingColor: "#F9EFEC",
         grey: "#B3B3B2",
+        navGrey: "#81807E",
       },
     },
     screens: {
